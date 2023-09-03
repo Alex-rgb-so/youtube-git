@@ -24,4 +24,6 @@
 
 12. git branch -d rama-heroes  :borra la rama
 
-13. git
+13. git push   :  toma todos los cambios y los despliega hip hup
+
+14. git commit -am ""  : sirve para usar de una vez el git add . y el commit -m 
