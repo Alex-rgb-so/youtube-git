@@ -24,3 +24,5 @@
 11- git merge rama-heroes :agrega la informacion del de la rama al master
 
 12- git branch -d rama-heroes  :borra la rama
+
+13- git
